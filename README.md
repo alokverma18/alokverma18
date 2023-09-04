@@ -1,11 +1,10 @@
 
-
 <h1 align="center">Hello World, I'm Alok <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A CSE Student at SRMIST Chennai.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alokverma18&label=Profile%20views&color=0e75b6&style=flat" alt="alokverma18" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Web Development**
+- 🌱 I’m currently learning **Machine Learning and Web Development** 
 
 - ⚡ Fun fact: **I'm not Funny 😅**
   
@@ -40,3 +39,6 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokverma18&show_icons=true&locale=en&layout=compact" alt="alokverma18" /></p>
+
+### Code Humor 😅
+<img src="https://readme-jokes.vercel.app/api?theme=random" alt="Jokes Card" />
