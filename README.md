@@ -1,20 +1,19 @@
 <h1 align="center">Hello World, I'm Alok👋 </h1>
 <h3 align="center">A CSE Student at SRMIST Chennai.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alokverma18&label=Profile%20views&color=0e75b6&style=flat" alt="alokverma18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alokverma18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Web Development** 
-
-- ⚡ Fun fact: **I'm not Funny 😅**
   
 - 💬 Ask me about **anything**
+
+- ⚡ Fun fact: **I'm not Funny 😅**
 
 - 📫 How to reach me **akvvg2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alokverma18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alokverma18" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/alokverma18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alokverma18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,5 +38,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokverma18&show_icons=true&locale=en&layout=compact" alt="alokverma18" /></p>
 
-### Code Humor 😅
-<img src="https://readme-jokes.vercel.app/api?theme=random" alt="Jokes Card" />
+### Code Humor 😉
+<img src="https://readme-jokes.vercel.app/api?theme=random" alt="Programming Jokes Card" />
