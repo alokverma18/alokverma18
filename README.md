@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm Alok👋 </h1>
+<h1 align="center">Hello, I'm Alok👋 </h1>
 <h3 align="center">A CSE Student at SRMIST Chennai.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alokverma18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
