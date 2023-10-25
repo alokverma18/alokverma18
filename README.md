@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Alok👋 </h1>
-<h3 align="center">A CSE Student at SRMIST Chennai.</h3>
+
+<img src="https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alokverma18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
@@ -7,9 +8,9 @@
   
 - 💬 Ask me about **anything**
 
-- ⚡ Fun fact: **I'm not Funny 😅**
+- ⚡ Fun fact: **I'm not Funny.**
 
-- 📫 How to reach me **akvvg2@gmail.com**
+- 📫 How to reach me : 📧 **akvvg2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,5 +39,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokverma18&show_icons=true&locale=en&layout=compact" alt="alokverma18" /></p>
 
-### Code Humor 😉
+### Code Humor 👨‍💻
 <img src="https://readme-jokes.vercel.app/api?theme=random" alt="Programming Jokes Card" />
