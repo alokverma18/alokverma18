@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Alok👋 </h1><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alokverma18&label=Profile%20views&color=orange&style=flat" alt="Profile Views" /> </p>
 <h3></h3>
-<img align = "right" height = "300px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align = "right" height = "280px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <br>
 
