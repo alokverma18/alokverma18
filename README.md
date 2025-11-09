@@ -10,7 +10,6 @@
 
 - ⚡ Fun fact: **I'm not Funny.**
 
-- 📫 How to reach me : 📧 **akvvg2@gmail.com**
 
 <br>
 
