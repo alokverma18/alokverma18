@@ -20,7 +20,7 @@
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,angular,react,spring,nodejs,git,postman,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,angular,react,spring,nodejs,git,postman,mysql,mongodb" alt="Languages and tools: C++, Python, Java, HTML, CSS, JavaScript, Angular, React, Spring, Node.js, Git, Postman, MySQL, MongoDB" />
   </a>
 </p>
 
